@@ -15,7 +15,7 @@ Rajabdeen Ajmal
 
 ######  Jan 2020 - Present
 
-- Co-founded the startup and led the development of IntelliQ [IntelliQ](https://intelliq.lk), a cutting-edge reservation and time-based token queue management system. **IntelliQ** was selected as one of the top products of **Spiralation 2020** by the Information and Communication Technology Agency (ICTA)
+- Co-founded the startup and led the development of **[IntelliQ](https://intelliq.lk)**, a cutting-edge reservation and time-based token queue management system. **IntelliQ** was selected as one of the top products of **Spiralation 2020** by the Information and Communication Technology Agency (ICTA)
 - Developed the application from scratch using Springboot and Angular, and its running in many hospitals and channelling centers all over the island
 
 ------------------------------------------
