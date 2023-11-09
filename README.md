@@ -1,8 +1,9 @@
 Rajabdeen Ajmal
 =================================
 
-<rajajmal@gmail.com> · [+94713391001](tel:+94713391001) · Colombo, Sri Lanka.
-Linkedin: https://www.linkedin.com/in/rajabdeen-ajmal-79b2a8136/
+> <rajajmal@gmail.com> · [+94713391001](tel:+94713391001) · Colombo, Sri Lanka.
+>
+> Linkedin: https://www.linkedin.com/in/rajabdeen-ajmal
 
 
 ------------------------------------------
