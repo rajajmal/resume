@@ -2,7 +2,8 @@ Rajabdeen Ajmal
 =================================
 
 > <rajajmal@gmail.com> · [+94713391001](tel:+94713391001) · Puttalam, Sri Lanka.
-https://www.linkedin.com/in/rajabdeen-ajmal-79b2a8136/
+
+> https://www.linkedin.com/in/rajabdeen-ajmal-79b2a8136/
 
 
 ------------------------------------------
