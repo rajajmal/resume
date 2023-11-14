@@ -9,6 +9,14 @@ Rajabdeen Ajmal
 
 ------------------------------------------
 
+#####   Software Architect, [Imara Software Solutions](https://imarasoft.net/)
+
+######  Oct 2019 - Present
+
+- Led software architecture for automation projects that integrated with major marketplaces, including Amazon, Ebay, Shopify, and others. Designed and developed robust and scalable solutions that enabled seamless synchronization of data, orders, and inventory across multiple channels
+- Took a leadership role in interviewing, recruiting, training, and mentoring engineers, ensuring the growth and development of the team. Took design-level decisions and provided code reviews to ensure high-quality, scalable solutions that met project objectives
+
+------------------------------------------
 
 #####   Consultant and Technical Lead, [ZodiumValley (Pvt) Ltd](https://www.zodiumvalley.com/)
 
@@ -16,15 +24,6 @@ Rajabdeen Ajmal
 
 - Consulted the startup and led the development of **[IntelliQ](https://intelliq.lk)**, a cutting-edge reservation and time-based token queue management system. IntelliQ was selected as one of the top products of Spiralation 2020 by the Information and Communication Technology Agency (ICTA)
 - Developed the application from scratch using Springboot and Angular, and its running in many hospitals and channelling centers all over the island
-
-------------------------------------------
-
-#####   Software Architect, [Imara Software Solutions](https://imarasoft.net/)
-
-######  Oct 2019 - Present
-
-- Led software architecture for automation projects that integrated with major marketplaces, including Amazon, Ebay, Shopify, and others. Designed and developed robust and scalable solutions that enabled seamless synchronization of data, orders, and inventory across multiple channels
-- Took a leadership role in interviewing, recruiting, training, and mentoring engineers, ensuring the growth and development of the team. Took design-level decisions and provided code reviews to ensure high-quality, scalable solutions that met project objectives
 
 ------------------------------------------
 
