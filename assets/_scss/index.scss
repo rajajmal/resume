@@ -37,6 +37,20 @@ body {
 @import "themes/minimal2";
 // @import "themes/dark";
 
+body h1 {
+	left: 6rem; // with image
+}
+
+body blockquote {
+  float: left;
+  margin-left: 6rem;
+  border: 0;
+  padding: 0;
+}
+
+.powered-by {
+    display: none;
+}
 
 .print-enabled {
 	a {
