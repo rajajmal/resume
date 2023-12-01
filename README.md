@@ -92,4 +92,8 @@ Rajabdeen Ajmal
 
 ######  2003 - 2006
 
+#####   GCE (A/L) –April 2002 : 1 A (Physics), 1 B (Combined maths), 1 C (Chemistry) - District Rank 21
+
+######  2002
+
 
