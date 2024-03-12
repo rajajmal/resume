@@ -1,4 +1,4 @@
-![Your Avatar](https://media.licdn.com/dms/image/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_400_400/0/1699962742619?e=1705536000&v=beta&t=iwpDJRt3xDqjUCrFb9iFmF1SpAVKjpY0GyPuipe3cBk)
+![Your Avatar](https://media.licdn.com/dms/image/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_200_200/0/1699962742619?e=1715817600&v=beta&t=Tvlb6k6dBL4JLS-RULQaO13gzIsHWp3vOEq-drkV_rg)
 
 Rajabdeen Ajmal
 =================================
