@@ -3,7 +3,7 @@
 Rajabdeen Ajmal
 =================================
 
-> <rajajmal@gmail.com> · [+94713391001](tel:+94713391001) · [https://www.linkedin.com/in/rajabdeen-ajmal](https://www.linkedin.com/in/rajabdeen-ajmal)
+> <rajajmal@gmail.com> · [+94713391001](tel:+94767381001) · [https://www.linkedin.com/in/rajabdeen-ajmal](https://www.linkedin.com/in/rajabdeen-ajmal)
 
 ------------------------------------------
 
@@ -11,7 +11,7 @@ Rajabdeen Ajmal
 
 ------------------------------------------
 
-#####   Software Architect, [Imara Software Solutions](https://imarasoft.net/)
+#####   Senior Technical Lead, [Imara Software Solutions](https://imarasoft.net/)
 
 ######  Oct 2019 - Present
 
