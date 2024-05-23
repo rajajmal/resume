@@ -20,9 +20,9 @@ Rajabdeen Ajmal
 
 ------------------------------------------
 
-#####   Consultant and Technical Lead, [ZodiumValley (Pvt) Ltd](https://www.zodiumvalley.com/)
+#####   Consultant and Technical Lead (Part Time), [ZodiumValley (Pvt) Ltd](https://www.zodiumvalley.com/)
 
-######  Jan 2020 - Present
+######  Jan 2020 - Jan 2024
 
 - Consulted the startup and led the development of **[IntelliQ](https://intelliq.lk)**, a cutting-edge reservation and time-based token queue management system. IntelliQ was selected as one of the top products of Spiralation 2020 by the Information and Communication Technology Agency (ICTA)
 - Developed the application from scratch using Springboot and Angular, and its running in many hospitals and channelling centers all over the country
