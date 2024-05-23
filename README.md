@@ -1,4 +1,4 @@
-![Your Avatar](https://media.licdn.com/dms/image/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_200_200/0/1699962742619?e=1715817600&v=beta&t=Tvlb6k6dBL4JLS-RULQaO13gzIsHWp3vOEq-drkV_rg)
+![Your Avatar]([https://media.licdn.com/dms/image/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_200_200/0/1699962742619?e=1715817600&v=beta&t=Tvlb6k6dBL4JLS-RULQaO13gzIsHWp3vOEq-drkV_rg](https://media.licdn.com/dms/image/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_100_100/0/1699962742619?e=1721865600&v=beta&t=y3Y6fLSsh4VGK-AR-BImKELseu_Z77ets6IVKAfgq3s))
 
 Rajabdeen Ajmal
 =================================
