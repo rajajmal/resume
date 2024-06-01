@@ -11,7 +11,7 @@ Rajabdeen Ajmal
 
 ------------------------------------------
 
-#####   Software Architect, [Imara Software Solutions](https://imarasoft.net/)
+#####   Senior Technical Lead, [Imara Software Solutions](https://imarasoft.net/)
 
 ######  Oct 2019 - Present
 
