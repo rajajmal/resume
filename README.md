@@ -1,4 +1,4 @@
-![Your Avatar](https://drive.google.com/uc?export=view&id=1BfznHtpbi8pk4tqRZYAl6r2DdK2f2ixX)
+![Your Avatar](https://postimg.cc/k2ZLZjMh)
 
 Rajabdeen Ajmal
 =================================
