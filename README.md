@@ -1,4 +1,4 @@
-![Your Avatar](./Ajmal.png)
+![Your Avatar](Ajmal.png)
 
 Rajabdeen Ajmal
 =================================
