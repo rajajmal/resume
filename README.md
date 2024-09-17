@@ -1,3 +1,4 @@
+![Your Avatar](./Ajmal.png)
 
 Rajabdeen Ajmal
 =================================
