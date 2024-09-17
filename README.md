@@ -1,4 +1,4 @@
-![Your Avatar](https://postimg.cc/k2ZLZjMh)
+![Your Avatar](https://i.postimg.cc/DzyFSD9F/ajmal.png)
 
 Rajabdeen Ajmal
 =================================
