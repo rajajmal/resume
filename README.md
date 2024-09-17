@@ -1,4 +1,4 @@
-![Your Avatar](./Ajmal.png)
+![Your Avatar](https://rajajmal.github.io/resume/assets/ajmal.png)
 
 Rajabdeen Ajmal
 =================================
