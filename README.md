@@ -61,13 +61,15 @@ Rajabdeen Ajmal
 
 ######  Languages
 
-- **Expert in** - Java, JavaScript/TypeScript/ES6, PHP, HTML5, CSS
-
-- **Proficient in** - C#, React JS
+- Java, JavaScript/TypeScript/ES6, PHP, HTML5, CSS
 
 ######  Frameworks
 
-- Spring Boot, Angular 2+, Ionic 2+, Laravel, Vue JS, Node JS, jQuery, Bootstrap 2+, CodeIgniter
+- Spring Boot, Laravel, Angular 2+, Ionic 2+,  Vue.js, Node.js, CodeIgniter, Bootstrap 2+
+
+######  Libraries
+
+- React, jQuery
 
 ######  Development Practices
 
