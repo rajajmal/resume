@@ -69,13 +69,19 @@ Rajabdeen Ajmal
 
 - Spring Boot, Angular 2+, Ionic 2+, Laravel, Vue JS, Node JS, jQuery, Bootstrap 2+, CodeIgniter
 
-######  Others
+######  Development Practices
 
 - OO Analysis & Design, Design patterns
-- Docker
-- Amazon AWS (EC2, S3, Lambda)
-- Maven, Git, TeamCity CI
-- Oracle, Postgresql, Mongo DB, Sqlite
+
+- Agile (Scrum, Kanban), Test-Driven Development (TDD)
+
+######  Cloud & DevOps Tools
+
+- Docker, Kubernetes, Amazon AWS (EC2, S3, Lambda), Maven, Git, TeamCity CI
+
+######  Databases
+
+- Oracle, PostgreSQL, MongoDB, SQLite
 
 ######  Interests
 
