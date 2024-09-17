@@ -1,4 +1,4 @@
-![Your Avatar](https://rajajmal.github.io/resume/assets/ajmal.png)
+![Your Avatar](https://drive.google.com/file/d/1BfznHtpbi8pk4tqRZYAl6r2DdK2f2ixX/view?usp=sharing)
 
 Rajabdeen Ajmal
 =================================
