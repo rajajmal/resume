@@ -1,4 +1,4 @@
-![Your Avatar]([https://media.licdn.com/dms/image/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_100_100/0/1699962742619?e=1721865600&v=beta&t=y3Y6fLSsh4VGK-AR-BImKELseu_Z77ets6IVKAfgq3s](https://media.licdn.com/dms/image/v2/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699962742619?e=1732147200&v=beta&t=M7sEH4RANZ1YQ9QM88K601ZlE5CyPPcE20C3sJ0tA_Q))
+![Your Avatar]([[https://media.licdn.com/dms/image/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_100_100/0/1699962742619?e=1721865600&v=beta&t=y3Y6fLSsh4VGK-AR-BImKELseu_Z77ets6IVKAfgq3s](https://media.licdn.com/dms/image/v2/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699962742619?e=1732147200&v=beta&t=M7sEH4RANZ1YQ9QM88K601ZlE5CyPPcE20C3sJ0tA_Q](https://media.licdn.com/dms/image/v2/D5603AQFj18g9k5JiPw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699962742619?e=1732147200&v=beta&t=pU4vKSkpk22uas8WQMZbQEsXLBSkKglrD2A8pPo-rPs)))
 
 Rajabdeen Ajmal
 =================================
@@ -20,7 +20,7 @@ Rajabdeen Ajmal
 
 ------------------------------------------
 
-#####   Consultant and Technical Lead (Part Time), [ZodiumValley (Pvt) Ltd](https://www.zodiumvalley.com/)
+#####   Consultant and Technical Lead, [ZodiumValley (Pvt) Ltd](https://www.zodiumvalley.com/)
 
 ######  Jan 2020 - Jan 2024
 
